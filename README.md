@@ -5,7 +5,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Screenshots
 
 <img src="./images//screenshot2.png" width="300">
-<img src="./images//screenshot.png">
+<img src="./images//screenshot.png" width="600">
 
 ### Links
 
